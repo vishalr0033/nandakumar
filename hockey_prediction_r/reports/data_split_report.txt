@@ -1,0 +1,6 @@
+CHRONOLOGICAL SPLIT REPORT
+====================================
+Total Matches: 6608
+Train: 4625 (1908-10-29 to 2019-05-27)
+Validation: 991 (2019-05-28 to 2023-07-26)
+Test: 992 (2023-07-27 to 2026-08-21)

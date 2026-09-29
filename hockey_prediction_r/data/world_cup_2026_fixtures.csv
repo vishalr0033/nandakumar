@@ -1,0 +1,9 @@
+match_id,date,team_a,team_b,venue,stage
+WC26_01,2026-08-22,Ireland,Spain,"Wavre, Belgium",Pool
+WC26_02,2026-08-22,Netherlands,Japan,"Amstelveen, Netherlands",Pool
+WC26_03,2026-08-23,Belgium,Germany,"Wavre, Belgium",Pool
+WC26_04,2026-08-23,Australia,India,"Amstelveen, Netherlands",Pool
+WC26_05,2026-08-24,Argentina,England,"Wavre, Belgium",Pool
+WC26_06,2026-08-24,New Zealand,South Africa,"Amstelveen, Netherlands",Pool
+WC26_07,2026-08-26,France,Malaysia,"Wavre, Belgium",Crossover
+WC26_08,2026-08-28,Belgium,Netherlands,"Wavre, Belgium",Semi-Final

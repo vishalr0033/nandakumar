@@ -1,0 +1,10 @@
+REPRODUCIBILITY LOG
+===================
+Date: 2026-08-21 18:04:52.509934
+R Version: R version 4.4.2 (2024-10-31 ucrt)
+Dataset: hockey_matches_final_enriched.xlsx
+Total Rows: 6608
+Seed: 42
+Model Type: XGBoost
+Features: elo_difference, team_a_elo, team_b_elo, team_a_win_rate, team_b_win_rate, team_a_form_5, team_b_form_5, team_a_form_10, team_b_form_10, team_a_avg_gd, team_b_avg_gd, team_a_recent_gd, team_b_recent_gd, team_a_h2h_win_rate, team_a_matches, team_b_matches, h2h_matches
+

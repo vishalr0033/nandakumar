@@ -1,0 +1,41 @@
+====================================
+TRAINING COMPLETE
+====================================
+Dataset:
+6608 matches
+
+Training matches:
+4625
+
+Validation matches:
+991
+
+Test matches:
+992
+
+Best model:
+XGBoost
+
+Test accuracy:
+74.4%
+
+ROC-AUC:
+82.3%
+
+Log loss:
+0.514
+
+Brier score:
+0.171
+
+CPU threads:
+1
+
+GPU:
+NOT USED
+
+Model saved:
+models/hockey_winner_model.rds
+models/model_v1.rds
+====================================
+

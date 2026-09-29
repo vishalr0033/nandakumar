@@ -1,0 +1,62 @@
+match_id,match_date,match_time,year,season,tournament,tournament_type,tournament_level,match_stage,pool_group,match_number,team_a,team_b,team_a_code,team_b_code,team_a_score,team_b_score,winner,loser,result,goal_difference,decision_method,venue,city,country,neutral_venue,team_a_penalty_corners,team_b_penalty_corners,team_a_shots,team_b_shots,team_a_possession,team_b_possession,team_a_green_cards,team_b_green_cards,team_a_yellow_cards,team_b_yellow_cards,team_a_red_cards,team_b_red_cards,team_a_q1_goals,team_a_q2_goals,team_a_q3_goals,team_a_q4_goals,team_b_q1_goals,team_b_q2_goals,team_b_q3_goals,team_b_q4_goals,team_a_world_rank,team_b_world_rank,ranking_date,source_name,source_match_url,scraped_at
+241,1986-10-19,00:00,1986,1986,,UNKNOWN,TIER_2,,,,FRG,URS,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1093,2026-08-21T14:45:37.149773
+283,2004-08-27,17:00,2004,2004,,UNKNOWN,TIER_2,,,,Germany,Spain,,,4.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,1,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/2564,2026-08-21T14:45:47.398672
+319,1978-03-31,00:00,1978,1978,,UNKNOWN,TIER_2,,,,Spain,England,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/638,2026-08-21T14:45:55.307632
+390,1975-03-12,00:00,1975,1975,,UNKNOWN,TIER_2,,,,POL,GHA,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/507,2026-08-21T14:46:11.438386
+504,1986-10-17,00:00,1986,1986,,UNKNOWN,TIER_2,,,,PAK,India,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1088,2026-08-21T14:46:42.464067
+521,2002-03-08,08:35,2002,2002,,UNKNOWN,TIER_2,,,,RSA,Belgium,,,5.0,,,,,,REGULATION,Pitch 1,Pitch 1,,,0.0,0.0,,,,,1,1,0,1,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/2143,2026-08-21T14:46:46.964502
+777,2000-09-30,11:30,2000,2000,,UNKNOWN,TIER_2,,,,MAS,POL,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,2,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1967,2026-08-21T14:47:57.174127
+891,1998-06-01,00:00,1998,1998,,UNKNOWN,TIER_2,,,,Netherlands,Spain,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1792,2026-08-21T14:48:22.191100
+1014,1976-07-28,00:00,1976,1976,,UNKNOWN,TIER_2,,,,Belgium,Argentina,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/581,2026-08-21T14:48:55.487945
+1267,2008-08-23,08:30,2008,2008,,UNKNOWN,TIER_2,,,,CHN,RSA,,,4.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,2,2,1,1,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/3172,2026-08-21T14:49:54.171099
+1406,2011-12-02,17:00,2011,2011,,UNKNOWN,TIER_2,,,,CAN,POL,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/3825,2026-08-21T14:50:25.030258
+1414,2009-07-12,15:30,2009,2009,,UNKNOWN,TIER_2,,,,FRA,MAS,,,4.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/3296,2026-08-21T14:50:26.631472
+1858,2012-12-02,14:00,2012,2012,,UNKNOWN,TIER_2,,,,MAS,IRL,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/4226,2026-08-21T14:52:10.416260
+1945,2007-07-01,17:30,2007,2007,,UNKNOWN,TIER_2,,,,Argentina,New Zealand,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/2923,2026-08-21T14:52:35.097457
+1997,1968-10-23,00:00,1968,1968,,UNKNOWN,TIER_2,,,,GDR,GBR,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/294,2026-08-21T14:52:47.127598
+2241,1960-09-05,16:00,1960,1960,,UNKNOWN,TIER_2,,,,Spain,New Zealand,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/164,2026-08-21T14:54:07.627497
+2330,1968-10-25,19:45,1968,1968,,UNKNOWN,TIER_2,,,,Netherlands,Spain,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/303,2026-08-21T14:54:30.663936
+2355,1976-07-29,00:00,1976,1976,,UNKNOWN,TIER_2,,,,Belgium,CAN,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/583,2026-08-21T14:54:39.136403
+2379,2011-12-01,15:00,2011,2011,,UNKNOWN,TIER_2,,,,India,MAS,,,5.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/3820,2026-08-21T14:54:44.687651
+2425,1971-10-22,00:00,1971,1971,,UNKNOWN,TIER_2,,,,Spain,KEN,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/329,2026-08-21T14:54:54.266946
+2471,1990-02-22,12:15,1990,1990,,UNKNOWN,TIER_2,,,,Spain,FRA,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,3,2,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1280,2026-08-21T14:55:03.102042
+2503,1971-10-24,00:00,1971,1971,,UNKNOWN,TIER_2,,,,India,KEN,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/335,2026-08-21T14:55:10.133132
+2608,1971-10-23,00:00,1971,1971,,UNKNOWN,TIER_2,,,,FRG,Netherlands,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/332,2026-08-21T14:55:36.263340
+2645,1976-07-26,22:00,1976,1976,,UNKNOWN,TIER_2,,Group B,,New Zealand,Spain,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/578,2026-08-21T14:55:44.514165
+2772,2009-11-22,16:05,2009,2009,,UNKNOWN,TIER_2,,,,IRL,CZE,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/3444,2026-08-21T14:56:14.082108
+2799,1968-10-24,00:00,1968,1968,,UNKNOWN,TIER_2,,,,Australia,India,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/301,2026-08-21T14:56:19.997530
+3029,1997-10-19,00:00,1997,1997,,UNKNOWN,TIER_2,,,,Germany,Australia,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,1,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1754,2026-08-21T14:57:10.558188
+3269,2011-12-11,10:35,2011,2011,,UNKNOWN,TIER_2,,,,PAK,KOR,,,5.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,1,1,0,1,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/3852,2026-08-21T14:58:10.843377
+3303,2012-12-09,11:00,2012,2012,,UNKNOWN,TIER_2,,,,Belgium,Germany,,,5.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,2,2,1,1,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/4155,2026-08-21T14:58:21.904389
+3358,2008-02-10,02:45,2008,2008,,UNKNOWN,TIER_2,,,,New Zealand,Argentina,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/2973,2026-08-21T14:58:37.452087
+3516,1986-10-18,00:00,1986,1986,,UNKNOWN,TIER_2,,,,England,FRG,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1090,2026-08-21T14:59:24.441174
+3718,2004-03-13,17:00,2004,2004,,UNKNOWN,TIER_2,,,,Netherlands,Spain,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/2465,2026-08-21T15:00:24.430477
+3857,1964-10-21,03:00,1964,1964,,UNKNOWN,TIER_2,,,,KEN,Netherlands,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/230,2026-08-21T15:01:03.360729
+3873,2000-06-04,15:00,2000,2000,,UNKNOWN,TIER_2,,,,Netherlands,Germany,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1910,2026-08-21T15:01:08.162710
+4279,1988-09-28,09:00,1988,1988,,UNKNOWN,TIER_2,,,,KOR,KEN,,,5.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1188,2026-08-21T15:02:47.015255
+4286,1968-10-24,00:00,1968,1968,,UNKNOWN,TIER_2,,,,PAK,FRG,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/300,2026-08-21T15:02:48.669354
+4477,2012-12-09,16:00,2012,2012,,UNKNOWN,TIER_2,,,,Australia,Netherlands,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,1,0,0,1,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/4157,2026-08-21T15:03:32.199894
+4528,1960-09-05,09:00,1960,1960,,UNKNOWN,TIER_2,,,,India,Australia,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/161,2026-08-21T15:03:44.154128
+4785,1992-08-05,16:30,1992,1992,,UNKNOWN,TIER_2,,,,Argentina,MAS,,,4.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,1,1,4,2,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1444,2026-08-21T15:04:46.156915
+4797,1976-07-28,00:00,1976,1976,,UNKNOWN,TIER_2,,,,New Zealand,Netherlands,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/579,2026-08-21T15:04:49.780404
+4827,2002-03-07,18:35,2002,2002,,UNKNOWN,TIER_2,,,,Argentina,England,,,2.0,,,,,,REGULATION,Pitch 2,Pitch 2,,,0.0,0.0,,,,,1,1,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/2138,2026-08-21T15:04:56.440302
+4915,2004-08-27,19:30,2004,2004,,UNKNOWN,TIER_2,,,,Netherlands,Australia,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,2,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/2565,2026-08-21T15:05:16.463211
+5025,1999-06-20,00:00,1999,1999,,UNKNOWN,TIER_2,,,,England,PAK,,,4.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,2,1,1,1,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1873,2026-08-21T15:05:40.480557
+5177,1988-09-28,11:00,1988,1988,,UNKNOWN,TIER_2,,,,India,Argentina,,,6.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1187,2026-08-21T15:06:12.412631
+5242,1973-08-31,00:00,1973,1973,,UNKNOWN,TIER_2,,,,England,New Zealand,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/434,2026-08-21T15:06:25.682973
+5310,1968-10-23,00:00,1968,1968,,UNKNOWN,TIER_2,,,,MAS,MEX,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/297,2026-08-21T15:06:43.491026
+5328,2002-03-09,18:05,2002,2002,,UNKNOWN,TIER_2,,,,KOR,Netherlands,,,1.0,,,,,,REGULATION,Pitch 1,Pitch 1,,,0.0,0.0,,,,,2,2,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/2148,2026-08-21T15:06:47.969644
+5367,1972-09-07,00:00,1972,1972,,UNKNOWN,TIER_2,,,,Australia,MAS,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/394,2026-08-21T15:06:56.026521
+5446,1960-09-05,10:30,1960,1960,,UNKNOWN,TIER_2,,,,GBR,KEN,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/162,2026-08-21T15:07:14.468111
+5556,1990-02-21,12:15,1990,1990,,UNKNOWN,TIER_2,,,,Netherlands,FRG,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,1,1,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1278,2026-08-21T15:07:39.178910
+5576,2007-12-09,12:35,2007,2007,,UNKNOWN,TIER_2,,,,PAK,MAS,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,2,1,0,2,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/2952,2026-08-21T15:07:43.626260
+5789,1972-09-07,00:00,1972,1972,,UNKNOWN,TIER_2,,,,KEN,Argentina,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/395,2026-08-21T15:08:32.258428
+5791,1998-11-08,09:05,1998,1998,,UNKNOWN,TIER_2,,,,Germany,Spain,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,1,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/1854,2026-08-21T15:08:32.400078
+5998,1984-08-11,13:15,1984,1984,,UNKNOWN,TIER_2,,,,FRG,PAK,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,1,2,0,1,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/951,2026-08-21T15:09:16.016931
+6145,1964-10-23,05:15,1964,1964,,UNKNOWN,TIER_2,,,,Australia,Spain,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/235,2026-08-21T15:09:51.170956
+6188,1975-03-13,00:00,1975,1975,,UNKNOWN,TIER_2,,,,India,MAS,,,3.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/510,2026-08-21T15:09:59.484869
+6229,2012-12-09,08:30,2012,2012,,UNKNOWN,TIER_2,,,,England,New Zealand,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,1,0,0,1,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/4154,2026-08-21T15:10:08.161195
+6375,1978-03-31,00:00,1978,1978,,UNKNOWN,TIER_2,,,,PAK,FRG,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/637,2026-08-21T15:10:41.516722
+6525,1975-03-12,00:00,1975,1975,,UNKNOWN,TIER_2,,,,England,Spain,,,5.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/508,2026-08-21T15:11:16.203276
+6550,2006-09-17,13:00,2006,2006,,UNKNOWN,TIER_2,,,,KOR,Spain,,,2.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,2,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/2750,2026-08-21T15:11:21.520163
+6610,1948-08-12,16:30,1948,1948,,UNKNOWN,TIER_2,,,,Netherlands,PAK,,,1.0,,,,,,REGULATION,,,,,0.0,0.0,,,,,0,0,0,0,0,0,,,,,,,,,,,,FIH TMS,https://tms.fih.ch/matches/77,2026-08-21T15:11:33.862633

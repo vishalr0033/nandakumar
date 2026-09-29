@@ -1,0 +1,39 @@
+====================================
+DATA AUDIT REPORT
+====================================
+
+Row count: 6608
+Column count: 52
+Duplicate match IDs: 0
+Duplicate rows: 0
+
+Missing values per column:
+  match_stage: 6608
+  pool_group: 4051
+  match_number: 6608
+  team_a_code: 6482
+  team_b_code: 6482
+  city: 1117
+  country: 2560
+  neutral_venue: 6608
+  team_a_shots: 6608
+  team_b_shots: 6608
+  team_a_possession: 6608
+  team_b_possession: 6608
+  team_a_q1_goals: 6608
+  team_a_q2_goals: 6608
+  team_a_q3_goals: 6608
+  team_a_q4_goals: 6608
+  team_b_q1_goals: 6608
+  team_b_q2_goals: 6608
+  team_b_q3_goals: 6608
+  team_b_q4_goals: 6608
+  team_a_world_rank: 6608
+  team_b_world_rank: 6608
+  ranking_date: 6608
+  source_name: 126
+
+Invalid dates: 0
+Future matches: 0
+Invalid scores (negative): 0
+Inconsistent winners (excluding shootouts): 0

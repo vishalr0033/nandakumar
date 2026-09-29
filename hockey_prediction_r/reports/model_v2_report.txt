@@ -1,0 +1,34 @@
+====================================
+FINAL V2 TRAINING REPORT
+====================================
+Total Matches: 6608
+Train/Val/Test: 4625 / 991 / 992
+
+Model Selection:
+                  Model  Accuracy Balanced_Accuracy Precision    Recall
+                XGBoost 0.7429435         0.7356921 0.7474576 0.8062157
+ Random Forest (ranger) 0.7258065         0.7216195 0.7459750 0.7623400
+    Logistic Regression 0.7167339         0.7175831 0.7607843 0.7093236
+        F1   ROC_AUC  Log_Loss Brier_Score
+ 0.7757256 0.8228047 0.5120493   0.1703784
+ 0.7540687 0.8143130 0.5357516   0.1791740
+ 0.7341533 0.8059158 0.5363828   0.1807919
+
+Metrics (Best Model on Test Set):
+Accuracy: 74.3%
+Balanced Accuracy: 73.6%
+Precision: 74.7%
+Recall: 80.6%
+F1 Score: 0.776
+ROC-AUC: 82.3%
+Log Loss: 0.512
+Brier Score: 0.170
+
+Confusion Matrix:
+TP: 441, FP: 149
+FN: 106, TN: 296
+
+All models evaluated properly using strict chronological pre-match data.
+Saved to: models/hockey_winner_model_v2.rds
+====================================
+

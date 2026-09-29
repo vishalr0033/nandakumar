@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+openpyxl
+python-dateutil
+tqdm
+tenacity
+urllib3

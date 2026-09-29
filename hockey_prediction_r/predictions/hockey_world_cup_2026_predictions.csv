@@ -1,0 +1,5 @@
+"match_id","date","team_a","team_b","venue","stage","team_a_probability","team_b_probability","draw_probability","predicted_winner","confidence","elo_difference","form_difference","h2h_difference","goal_difference_difference","rest_difference","opponent_strength_difference","fatigue_difference"
+"WC26_03","2026-08-23","Belgium","Germany","Wavre, Belgium","Pool",0.6521,0.3479,0,"Belgium","HIGH",164.9,-0.4,-0.0526,0.9648,0,-32.17,0
+"WC26_04","2026-08-23","Australia","India","Amstelveen, Netherlands","Pool",0.6084,0.3916,0,"Australia","HIGH",151.76,-0.45,0.4444,-0.1379,-1,96.65,0
+"WC26_05","2026-08-24","Argentina","England","Wavre, Belgium","Pool",0.3295,0.6705,0,"England","HIGH",-77.87,-0.6,-0.2381,-2.5152,-1,179.84,-3
+"WC26_08","2026-08-28","Belgium","Netherlands","Wavre, Belgium","Semi-Final",0.5491,0.4509,0,"Belgium","LOW",16.25,-0.2,-0.4706,0.046,1,-48.14,0

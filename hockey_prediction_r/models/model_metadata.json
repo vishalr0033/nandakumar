@@ -1,0 +1,16 @@
+{
+  "model_type": ["XGBoost"],
+  "training_date": ["2026-08-21"],
+  "feature_names": ["elo_difference", "team_a_elo", "team_b_elo", "team_a_win_rate", "team_b_win_rate", "team_a_form_5", "team_b_form_5", "team_a_form_10", "team_b_form_10", "team_a_avg_gd", "team_b_avg_gd", "team_a_recent_gd", "team_b_recent_gd", "team_a_h2h_win_rate", "team_a_matches", "team_b_matches", "h2h_matches"],
+  "training_date_range": ["1908-10-29 to 2019-05-27"],
+  "validation_date_range": ["2019-05-28 to 2023-07-26"],
+  "test_date_range": ["2023-07-27 to 2026-08-21"],
+  "metrics": {
+    "Model": ["XGBoost"],
+    "Accuracy": [0.744],
+    "ROC_AUC": [0.8234],
+    "Brier_Score": [0.1709],
+    "Log_Loss": [0.514]
+  },
+  "dataset_version": ["hockey_matches_final_enriched.xlsx"]
+}
